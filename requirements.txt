@@ -22,6 +22,6 @@ style==1.1.5
 tqdm==4.31.1
 update==0.0.1
 update-checker==0.16
-urllib3==1.24.1
+urllib3==1.26.5
 websocket-client==0.54.0
 youtube-dl==2019.2.18
